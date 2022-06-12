@@ -1,0 +1,19 @@
+.NaglowekStrony {
+  text-align: left;
+    font-size: 1.8em;
+    font-style:italic;
+  background-color: violet;
+}
+.Logos{
+  display: flex;
+  flex-direction:row;
+}
+.LewaStrona{
+  text-align: left;
+  display:flex;
+  flex-direction:column;
+}
+.Tytul{
+  background-color: aquamarine;
+  width: 150px;
+}
